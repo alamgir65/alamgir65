@@ -60,3 +60,15 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=ant-design)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+
+
+### My GitHub Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alamgir65&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Alamgir's GitHub status" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamgir65&theme=algolia" alt="alamgir65" />
+</p>
+
