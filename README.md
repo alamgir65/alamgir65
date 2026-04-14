@@ -111,20 +111,13 @@
   
 ---
 
-<p> <b>&#128200; Competitive Programming</b> </p>
-<span float="left">
-<img height="280em" src="https://github.com/neamul-haq/cf-statistics/blob/main/output/light_card.svg#gh-dark-mode-only." />
-</span>
-<span float="right">
-  <img height="355em" width="50%" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
-</span>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=neamul-haq&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alamgir65&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alamgir65&theme=dark&hide_border=false" /> 
 </td>
