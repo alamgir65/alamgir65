@@ -40,10 +40,10 @@
 
 <h3> About Me </h3>
 <ul>
-  <li> 🎓 BSc in CSE at <a href = "https://bu.ac.bd/"> Institute of Science Trade and Technology, Barishal, Bangladesh. </a> </li>
+  <li> 🎓 BSc in CSE at <a href = "https://bu.ac.bd/"> Institute of Science Trade and Technology, Dhaka, Bangladesh. </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solved more than 1700 problems and participated more than 110 contests on different online judges like: <a href="https://codeforces.com/profile/Neyamul_Haq">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
-    <a href="https://leetcode.com/Neamul_haq/">LeetCode</a>, <a href="https://lightoj.com/user/neamul_0634">LightOJ</a>, <a href="https://cses.fi/user/147071">CSES</a>, etc. </li>
+  <li> 💡 Solved more than 1700 problems and participated more than 110 contests on different online judges like: <a href="https://codeforces.com/profile/alamgir65">Codeforces</a>, <a href="https://www.codechef.com/users/no_one22">CodeChef</a>,  
+    <a href="https://leetcode.com/alamgirhossain/">LeetCode</a>, <a href="https://lightoj.com/user/23523">LightOJ</a>, <a href="https://cses.fi/user/182164">CSES</a>, etc. </li>
   <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
   <!---
   <li> ≡ Gained solid knowledge of Front-End Development involving ReactJS, Redux, RESTful API, HTML, and CSS. </li>
